@@ -1,4 +1,5 @@
 FROM microsoft/windowsservercore
+LABEL maintainer charris90@gmail.com
 WORKDIR install.src
 
 ADD https://aka.ms/vs/15/release/vs_community.exe vs_community.exe
