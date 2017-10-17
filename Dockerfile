@@ -7,7 +7,6 @@ RUN start /wait msbuild14.exe /q /full /log msbuild14.log
 
 ADD https://aka.ms/vs/15/release/vs_community.exe vs_community.exe
 RUN vs_community.exe  --includeOptional --includeRecommended -q --wait --locale en-US \
-    --add Microsoft.VisualStudio.Workload.NetCoreTools \
     --add Microsoft.VisualStudio.Workload.NetWeb
 
 
