@@ -1,5 +1,4 @@
-#FROM microsoft/windowsservercore:10.0.14393.1715
-FROM microsoft/windowsservercore:10.0.14393.1770
+FROM microsoft/windowsservercore:10.0.14393.1715
 LABEL maintainer charris90@gmail.com
 
 SHELL ["powershell.exe", "-ExecutionPolicy", "Bypass", "-Command"]
@@ -16,7 +15,7 @@ RUN $ErrorActionPreference = 'Stop'; \
     if ($ret = $p.ExitCode) { c:\collect.exe; throw ('Install failed with exit code 0x{0:x}' -f $ret) }
 
 
-RUN @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+RUN Set-ExecutionPolicy Bypass; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 RUN choco install nuget.commandline --allow-empty-checksums -y 
 RUN choco install nvm -y 
