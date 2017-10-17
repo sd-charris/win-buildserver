@@ -1,0 +1,80 @@
+[0b00:0004][2017-10-17T09:47:53] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:53] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:53] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:53] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\catalog.json
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\catalog.json
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\catalog.json'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /CreateUnitTestExtensionLicense.rtf
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /CreateUnitTestExtensionLicense.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\CreateUnitTestExtensionLicense.rtf
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /CreateUnitTestExtensionLicense.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\CreateUnitTestExtensionLicense.rtf
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\CreateUnitTestExtensionLicense.rtf'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /cs/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /cs/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\cs\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /cs/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\cs\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\cs\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /de/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /de/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\de\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /de/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\de\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\de\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /es/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /es/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\es\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /es/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\es\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\es\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /fr/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /fr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\fr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /fr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\fr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\fr\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /it/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /it/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\it\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /it/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\it\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\it\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /ja/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /ja/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ja\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /ja/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ja\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ja\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /ko/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /ko/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ko\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /ko/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ko\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ko\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\manifest.json
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\manifest.json
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\manifest.json'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /MSTestv2UnitTestExtension.dll
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /MSTestv2UnitTestExtension.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\MSTestv2UnitTestExtension.dll
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /MSTestv2UnitTestExtension.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\MSTestv2UnitTestExtension.dll
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\MSTestv2UnitTestExtension.dll'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /pl/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /pl/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pl\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /pl/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pl\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pl\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /pt-BR/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /pt-BR/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pt-BR\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /pt-BR/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pt-BR\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\pt-BR\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /ru/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /ru/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ru\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /ru/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ru\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\ru\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /tr/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /tr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\tr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /tr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\tr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\tr\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /zh-Hans/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /zh-Hans/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hans\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /zh-Hans/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hans\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hans\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /zh-Hant/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /zh-Hant/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hant\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /zh-Hant/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hant\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\5gcenb00.exe\zh-Hant\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:53] Package executed successfully. Return code: 0

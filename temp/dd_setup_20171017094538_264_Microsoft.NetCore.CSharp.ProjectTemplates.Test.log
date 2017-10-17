@@ -1,0 +1,28 @@
+[0b00:0004][2017-10-17T09:48:33] Opening the package for processing
+[0b00:0004][2017-10-17T09:48:33] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:48:33] Getting list of files within the package
+[0b00:0004][2017-10-17T09:48:33] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\catalog.json
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\catalog.json
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\catalog.json'.
+[0b00:0004][2017-10-17T09:48:33] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:48:33] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\manifest.json
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\manifest.json
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\manifest.json'.
+[0b00:0004][2017-10-17T09:48:33] Processing file /ProjectTemplates/CSharp/.NET%20Core/1033/MSTest/MSTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /ProjectTemplates/CSharp/.NET%20Core/1033/MSTest/MSTest.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\MSTest\MSTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /ProjectTemplates/CSharp/.NET%20Core/1033/MSTest/MSTest.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\MSTest\MSTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\MSTest\MSTest.vstemplate'.
+[0b00:0004][2017-10-17T09:48:33] Processing file /ProjectTemplates/CSharp/.NET%20Core/1033/XUnitTest/XUnitTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /ProjectTemplates/CSharp/.NET%20Core/1033/XUnitTest/XUnitTest.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\XUnitTest\XUnitTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /ProjectTemplates/CSharp/.NET%20Core/1033/XUnitTest/XUnitTest.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\XUnitTest\XUnitTest.vstemplate
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\CSharp\.NET Core\1033\XUnitTest\XUnitTest.vstemplate'.
+[0b00:0004][2017-10-17T09:48:33] Processing file /ProjectTemplates/templateManifest0.1033.vstman
+[0b00:0004][2017-10-17T09:48:33] Started: Copying file /ProjectTemplates/templateManifest0.1033.vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\templateManifest0.1033.vstman
+[0b00:0004][2017-10-17T09:48:33] Completed: Copying file /ProjectTemplates/templateManifest0.1033.vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\templateManifest0.1033.vstman
+[0b00:0004][2017-10-17T09:48:33] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\u43bxrpa.b1x\ProjectTemplates\templateManifest0.1033.vstman'.
+[0b00:0004][2017-10-17T09:48:33] Package executed successfully. Return code: 0

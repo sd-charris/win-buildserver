@@ -1,0 +1,432 @@
+[0b00:0004][2017-10-17T09:46:48] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:48] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:48] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/HTML_Editor_Reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/HTML_Editor_Reg.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\HTML_Editor_Reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/HTML_Editor_Reg.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\HTML_Editor_Reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\HTML_Editor_Reg.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/ASPX/Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\ASPX\Microsoft.VisualStudio.Web.HTML.Implementation.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Exports/Microsoft.VisualStudio.Web.Exports.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Exports\Microsoft.VisualStudio.Web.Exports.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/html_designer_reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/html_designer_reg.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\html_designer_reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/html_designer_reg.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\html_designer_reg.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\html_designer_reg.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.VisualStudio.Web.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.VisualStudio.Web.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.VisualStudio.Web.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.VisualStudio.Web.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.VisualStudio.Web.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.VisualStudio.Web.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.WebPublisher.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.WebPublisher.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.WebPublisher.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Microsoft.WebPublisher.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.WebPublisher.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Microsoft.WebPublisher.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS_No_PPE.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS_No_PPE.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS_No_PPE.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Web/Project/Web_Prj_Reg_for_VS_No_PPE.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS_No_PPE.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\Web\Project\Web_Prj_Reg_for_VS_No_PPE.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_UPGRADE_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Extensions/Community/VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Community\VWD_WAP_WEB_APPLICATION_REG.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Application.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Application.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Application.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Application.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Application.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Application.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Application.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Web.Application.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Web.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe.config
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe.config
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe.config
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe.config'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.Shared.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.Shared.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.Shared.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.Shared.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.Shared.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.Shared.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.Shared.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Web.Host.Shared.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.HTML.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.HTML.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.HTML.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.HTML.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.HTML.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.HTML.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.PublishContract.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.PublishContract.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.PublishContract.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Web.PublishContract.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.PublishContract.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.Web.PublishContract.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.Web.Design.Client.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.Web.Design.Client.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.Web.Design.Client.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.Web.Design.Client.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.Web.Design.Client.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.Web.Design.Client.dll'.
+[0b00:0004][2017-10-17T09:46:48] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.Web.Design.Client.dll for X86 ngen
+[0b00:0004][2017-10-17T09:46:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.Web.Design.Client.dll' for ngen
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Microsoft.WebPublisher.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Microsoft.WebPublisher.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.WebPublisher.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.WebPublisher.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.WebPublisher.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.WebPublisher.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Net.Ftp.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Net.Ftp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ftp.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Net.Ftp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ftp.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ftp.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Net.ProxySocket.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Net.ProxySocket.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.ProxySocket.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Net.ProxySocket.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.ProxySocket.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.ProxySocket.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Net.SecureSocket.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Net.SecureSocket.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.SecureSocket.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Net.SecureSocket.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.SecureSocket.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.SecureSocket.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Net.Sftp.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Net.Sftp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Sftp.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Net.Sftp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Sftp.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Sftp.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Net.Ssh.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Net.Ssh.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ssh.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Net.Ssh.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ssh.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Net.Ssh.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/IDE/Rebex.Security.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/IDE/Rebex.Security.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Security.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/IDE/Rebex.Security.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Security.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Rebex.Security.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/fpacutl10.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/fpacutl10.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpacutl10.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/fpacutl10.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpacutl10.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpacutl10.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/fpcutl.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/fpcutl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpcutl.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/fpcutl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpcutl.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpcutl.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/fpeditax.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/fpeditax.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/fpeditax.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/fpeditax.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/fpeditax.dll.manifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/fpeditax.dll.manifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\fpeditax.dll.manifest'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/htmdlgs.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/htmdlgs.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmdlgs.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/htmdlgs.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmdlgs.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmdlgs.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/htmlchkr.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/htmlchkr.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmlchkr.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/htmlchkr.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmlchkr.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmlchkr.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/htmled.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/htmled.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmled.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/htmled.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmled.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\htmled.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/mswebprj.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/mswebprj.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/mswebprj.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/mswebprj.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/mswebprj.dll.manifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/mswebprj.dll.manifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll.manifest
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\mswebprj.dll.manifest'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/asax.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/asax.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asax.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/asax.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asax.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asax.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/asp_head_content.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/asp_head_content.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asp_head_content.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/asp_head_content.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asp_head_content.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\asp_head_content.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/commonHTML5Types.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/commonHTML5Types.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTML5Types.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/commonHTML5Types.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTML5Types.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTML5Types.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/commonHTMLTypes.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/commonHTMLTypes.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTMLTypes.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/commonHTMLTypes.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTMLTypes.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\commonHTMLTypes.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/html_401.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/html_401.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_401.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/html_401.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_401.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_401.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/html_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/html_5.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/html_5.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\html_5.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/i18Languages.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/i18Languages.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\i18Languages.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/i18Languages.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\i18Languages.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\i18Languages.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/svg.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/svg.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\svg.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/svg.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\svg.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\svg.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/w3c-dom1-strict.tlb
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/w3c-dom1-strict.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1-strict.tlb
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/w3c-dom1-strict.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1-strict.tlb
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1-strict.tlb'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/w3c-dom1.tlb
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/w3c-dom1.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1.tlb
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/w3c-dom1.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1.tlb
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\w3c-dom1.tlb'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xhtml_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xhtml_5.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xhtml_5.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_5.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_5.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xhtml_frameset.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xhtml_frameset.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_frameset.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xhtml_frameset.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_frameset.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_frameset.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xhtml_strict-11.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xhtml_strict-11.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_strict-11.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xhtml_strict-11.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_strict-11.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_strict-11.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xhtml_transitional.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xhtml_transitional.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_transitional.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xhtml_transitional.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_transitional.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xhtml_transitional.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xlink.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xlink.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xlink.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xlink.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xlink.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xlink.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/html/xml.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/html/xml.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xml.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/html/xml.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xml.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\html\xml.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/ASP.tlb
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/ASP.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\ASP.tlb
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/ASP.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\ASP.tlb
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\ASP.tlb'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/MobileChtmlTemplate.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/MobileChtmlTemplate.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileChtmlTemplate.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/MobileChtmlTemplate.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileChtmlTemplate.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileChtmlTemplate.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/MobileForm.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/MobileForm.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileForm.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/MobileForm.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileForm.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileForm.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/MobileHtml32Template.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/MobileHtml32Template.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileHtml32Template.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/MobileHtml32Template.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileHtml32Template.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileHtml32Template.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/MobilePage.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/MobilePage.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobilePage.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/MobilePage.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobilePage.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobilePage.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/MobileUserControl.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/MobileUserControl.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileUserControl.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/MobileUserControl.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileUserControl.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\MobileUserControl.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/schemas/xml/wshmeta.xsd
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/schemas/xml/wshmeta.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\wshmeta.xsd
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/schemas/xml/wshmeta.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\wshmeta.xsd
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\schemas\xml\wshmeta.xsd'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/vwd/css10.xml
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/vwd/css10.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css10.xml
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/vwd/css10.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css10.xml
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css10.xml'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/vwd/css21.xml
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/vwd/css21.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css21.xml
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/vwd/css21.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css21.xml
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\css21.xml'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/vwd/cultures.odf
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/vwd/cultures.odf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\cultures.odf
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/vwd/cultures.odf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\cultures.odf
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\cultures.odf'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/vwd/fpacutl.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/vwd/fpacutl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\fpacutl.dll
+[0b00:0004][2017-10-17T09:46:48] Completed: Copying file /Contents/Common7/Packages/vwd/fpacutl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\fpacutl.dll
+[0b00:0004][2017-10-17T09:46:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\fpacutl.dll'.
+[0b00:0004][2017-10-17T09:46:48] Processing file /Contents/Common7/Packages/vwd/mso.dll
+[0b00:0004][2017-10-17T09:46:48] Started: Copying file /Contents/Common7/Packages/vwd/mso.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\mso.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/mso.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\mso.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\mso.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/vwd/msores.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/vwd/msores.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msores.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/msores.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msores.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msores.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/vwd/msostyle.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/vwd/msostyle.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msostyle.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/msostyle.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msostyle.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msostyle.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/vwd/msptls.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/vwd/msptls.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msptls.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/msptls.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msptls.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\msptls.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/vwd/protocols.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/vwd/protocols.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\protocols.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/protocols.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\protocols.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\protocols.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/vwd/riched20x.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/vwd/riched20x.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\riched20x.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/vwd/riched20x.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\riched20x.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\vwd\riched20x.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Common7/Packages/WebAppUpgrade.dll
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Common7/Packages/WebAppUpgrade.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\WebAppUpgrade.dll
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Common7/Packages/WebAppUpgrade.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\WebAppUpgrade.dll
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Packages\WebAppUpgrade.dll'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CoffeeScript.coffee
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CoffeeScript.coffee to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CoffeeScript.coffee
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CoffeeScript.coffee to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CoffeeScript.coffee
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CoffeeScript.coffee'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/Class.cs
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/Class.cs to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Class.cs
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/Class.cs to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Class.cs
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Class.cs'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/CSharpItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/CSharpItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\CSharpItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/CSharpItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\CSharpItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\CSharpItems.vsdir'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/Global.asax
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/Global.asax to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Global.asax
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/Global.asax to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Global.asax
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Global.asax'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/Handler.ashx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/Handler.ashx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\Handler.ashx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/MasterPage.master to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/MasterPage.master to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\MasterPage.master'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/WebForm.aspx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/WebForm.aspx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebForm.aspx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/WebService.asmx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/WebService.asmx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebService.asmx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/CSharp/WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/CSharp/WebUserControl.ascx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/CSharp/WebUserControl.ascx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\CSharp\WebUserControl.ascx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/HtmlPage.html
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/HtmlPage.html to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\HtmlPage.html
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/HtmlPage.html to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\HtmlPage.html
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\HtmlPage.html'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/JScript.js
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/JScript.js to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\JScript.js
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/JScript.js to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\JScript.js
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\JScript.js'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/json.json
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/json.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\json.json
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/json.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\json.json
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\json.json'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/jsx.jsx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/jsx.jsx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\jsx.jsx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/jsx.jsx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\jsx.jsx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\jsx.jsx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/NewFileItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/NewFileItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewFileItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/NewFileItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewFileItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewFileItems.vsdir'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/NewSitemap.sitemap
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/NewSitemap.sitemap to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewSitemap.sitemap
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/NewSitemap.sitemap to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewSitemap.sitemap
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\NewSitemap.sitemap'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/resource.resx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/resource.resx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\resource.resx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/resource.resx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\resource.resx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\resource.resx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/StyleSheet.css
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/StyleSheet.css to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.css
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/StyleSheet.css to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.css
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.css'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/StyleSheet.less
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/StyleSheet.less to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.less
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/StyleSheet.less to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.less
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.less'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/StyleSheet.scss
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/StyleSheet.scss to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.scss
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/StyleSheet.scss to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.scss
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\StyleSheet.scss'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/Class.vb
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/Class.vb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Class.vb
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/Class.vb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Class.vb
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Class.vb'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/Global.asax
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/Global.asax to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Global.asax
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/Global.asax to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Global.asax
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Global.asax'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/Handler.ashx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/Handler.ashx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Handler.ashx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\Handler.ashx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/MasterPage.master to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/MasterPage.master to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\MasterPage.master
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\MasterPage.master'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/VbItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/VbItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\VbItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/VbItems.vsdir to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\VbItems.vsdir
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\VbItems.vsdir'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/WebForm.aspx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/WebForm.aspx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebForm.aspx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebForm.aspx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/WebService.asmx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/WebService.asmx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebService.asmx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebService.asmx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/VB/WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/VB/WebUserControl.ascx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/VB/WebUserControl.ascx to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebUserControl.ascx
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\VB\WebUserControl.ascx'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/Web.Config
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/Web.Config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\Web.Config
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/Web.Config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\Web.Config
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\Web.Config'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Web/WebNewFileItems/XMLFile.xml
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Web/WebNewFileItems/XMLFile.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\XMLFile.xml
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Web/WebNewFileItems/XMLFile.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\XMLFile.xml
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Web\WebNewFileItems\XMLFile.xml'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Xml/Schemas/adrotator.xsd
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Xml/Schemas/adrotator.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator.xsd
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Xml/Schemas/adrotator.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator.xsd
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator.xsd'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Xml/Schemas/adrotator1_0.xsd
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Xml/Schemas/adrotator1_0.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator1_0.xsd
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Xml/Schemas/adrotator1_0.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator1_0.xsd
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\adrotator1_0.xsd'.
+[0b00:0004][2017-10-17T09:46:49] Processing file /Contents/Xml/Schemas/SiteMapSchema.xsd
+[0b00:0004][2017-10-17T09:46:49] Started: Copying file /Contents/Xml/Schemas/SiteMapSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\SiteMapSchema.xsd
+[0b00:0004][2017-10-17T09:46:49] Completed: Copying file /Contents/Xml/Schemas/SiteMapSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\SiteMapSchema.xsd
+[0b00:0004][2017-10-17T09:46:49] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\SiteMapSchema.xsd'.
+[0b00:0004][2017-10-17T09:46:49] Package executed successfully. Return code: 0

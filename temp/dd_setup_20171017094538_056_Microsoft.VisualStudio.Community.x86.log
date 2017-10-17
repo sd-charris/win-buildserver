@@ -1,0 +1,16 @@
+[0b00:0004][2017-10-17T09:46:32] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:32] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:32] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:32] Processing file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll
+[0b00:0004][2017-10-17T09:46:32] Started: Copying file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll
+[0b00:0004][2017-10-17T09:46:32] Completed: Copying file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll
+[0b00:0004][2017-10-17T09:46:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll'.
+[0b00:0004][2017-10-17T09:46:32] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll
+[0b00:0004][2017-10-17T09:46:32] Started: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.dll
+[0b00:0004][2017-10-17T09:46:32] Completed: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.dll
+[0b00:0004][2017-10-17T09:46:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.dll'.
+[0b00:0004][2017-10-17T09:46:32] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe
+[0b00:0004][2017-10-17T09:46:32] Started: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+[0b00:0004][2017-10-17T09:46:32] Completed: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+[0b00:0004][2017-10-17T09:46:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe'.
+[0b00:0004][2017-10-17T09:46:32] Package executed successfully. Return code: 0

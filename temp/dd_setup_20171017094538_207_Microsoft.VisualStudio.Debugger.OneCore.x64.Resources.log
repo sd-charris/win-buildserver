@@ -1,0 +1,20 @@
+[0b00:0004][2017-10-17T09:47:47] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:47] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:47] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:47] Processing file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/DiagnosticsHubMsg.dll
+[0b00:0004][2017-10-17T09:47:47] Started: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/DiagnosticsHubMsg.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\DiagnosticsHubMsg.dll
+[0b00:0004][2017-10-17T09:47:47] Completed: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/DiagnosticsHubMsg.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\DiagnosticsHubMsg.dll
+[0b00:0004][2017-10-17T09:47:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\DiagnosticsHubMsg.dll'.
+[0b00:0004][2017-10-17T09:47:47] Processing file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/msdbgui.dll
+[0b00:0004][2017-10-17T09:47:47] Started: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/msdbgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\msdbgui.dll
+[0b00:0004][2017-10-17T09:47:47] Completed: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/msdbgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\msdbgui.dll
+[0b00:0004][2017-10-17T09:47:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\msdbgui.dll'.
+[0b00:0004][2017-10-17T09:47:47] Processing file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.impl.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Started: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.impl.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.impl.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Completed: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.impl.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.impl.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.impl.resources.dll'.
+[0b00:0004][2017-10-17T09:47:47] Processing file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.script.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Started: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.script.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.script.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Completed: Copying file /Contents/CoreCon/Binaries/Phone%20Tools/Debugger/target/x64/1033/vsdebugeng.script.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.script.resources.dll
+[0b00:0004][2017-10-17T09:47:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\target\x64\1033\vsdebugeng.script.resources.dll'.
+[0b00:0004][2017-10-17T09:47:47] Package executed successfully. Return code: 0

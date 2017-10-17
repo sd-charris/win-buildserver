@@ -1,0 +1,140 @@
+[0b00:0004][2017-10-17T09:47:36] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:36] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:36] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:36] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\catalog.json
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\catalog.json
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\catalog.json'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /CloudConnectedServices_32x.png
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /CloudConnectedServices_32x.png to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\CloudConnectedServices_32x.png
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /CloudConnectedServices_32x.png to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\CloudConnectedServices_32x.png
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\CloudConnectedServices_32x.png'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ConnectedServices.imagemanifest
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ConnectedServices.imagemanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ConnectedServices.imagemanifest
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ConnectedServices.imagemanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ConnectedServices.imagemanifest
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ConnectedServices.imagemanifest'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /cs/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /cs/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /cs/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /cs/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /cs/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /cs/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\cs\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /de/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /de/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /de/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /de/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /de/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /de/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\de\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /es/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /es/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /es/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /es/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /es/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /es/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\es\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /fr/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /fr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /fr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /fr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /fr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /fr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\fr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /it/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /it/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /it/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /it/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /it/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /it/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\it\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ja/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ja/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ja/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ja/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ja/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ja/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ja\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ko/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ko/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ko/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ko/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ko/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ko/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ko\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\manifest.json
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\manifest.json
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\manifest.json'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /Microsoft.VisualStudio.ConnectedServices.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /Microsoft.VisualStudio.ConnectedServices.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /Microsoft.VisualStudio.ConnectedServices.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /Microsoft.VisualStudio.ConnectedServices.Package2.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /Microsoft.VisualStudio.ConnectedServices.Package2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /Microsoft.VisualStudio.ConnectedServices.Package2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\Microsoft.VisualStudio.ConnectedServices.Package2.pkgdef'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /pl/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /pl/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /pl/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /pl/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /pl/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /pl/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pl\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /pt-BR/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /pt-BR/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /pt-BR/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /pt-BR/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /pt-BR/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /pt-BR/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\pt-BR\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ru/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ru/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ru/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /ru/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /ru/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /ru/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\ru\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /tr/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /tr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /tr/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /tr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /tr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /tr/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\tr\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /zh-Hans/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /zh-Hans/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /zh-Hans/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /zh-Hans/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /zh-Hans/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hans\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /zh-Hant/extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /zh-Hant/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /zh-Hant/extension.vsixlangpack to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\extension.vsixlangpack
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\extension.vsixlangpack'.
+[0b00:0004][2017-10-17T09:47:36] Processing file /zh-Hant/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Started: Copying file /zh-Hant/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll
+[0b00:0004][2017-10-17T09:47:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\tu2tz1hy.ppv\zh-Hant\Microsoft.VisualStudio.ConnectedServices.Package2.resources.dll'.
+[0b00:0004][2017-10-17T09:47:36] Package executed successfully. Return code: 0

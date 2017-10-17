@@ -1,0 +1,60 @@
+[0b00:0004][2017-10-17T09:46:57] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:57] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:57] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:57] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\catalog.json
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\catalog.json
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\catalog.json'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\manifest.json
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\manifest.json
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\manifest.json'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.AspNetCore.Mvc.Razor.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.AspNetCore.Mvc.Razor.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.AspNetCore.Razor.Language.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.AspNetCore.Razor.Language.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Razor.Language.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.AspNetCore.Razor.Language.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Razor.Language.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.AspNetCore.Razor.Language.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.CodeAnalysis.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.CodeAnalysis.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.CodeAnalysis.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.CodeAnalysis.Razor.Workspaces.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.CodeAnalysis.Razor.Workspaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.Workspaces.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.CodeAnalysis.Razor.Workspaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.Workspaces.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Razor.Workspaces.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.CodeAnalysis.Remote.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.CodeAnalysis.Remote.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Remote.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.CodeAnalysis.Remote.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Remote.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.CodeAnalysis.Remote.Razor.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.VisualStudio.LanguageServices.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.VisualStudio.LanguageServices.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.LanguageServices.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.VisualStudio.LanguageServices.Razor.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.LanguageServices.Razor.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.LanguageServices.Razor.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.VisualStudio.RazorExtension.dll
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.VisualStudio.RazorExtension.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.dll
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.VisualStudio.RazorExtension.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.dll
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.dll'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.VisualStudio.RazorExtension.pdb
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.VisualStudio.RazorExtension.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pdb
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.VisualStudio.RazorExtension.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pdb
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pdb'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /Microsoft.VisualStudio.RazorExtension.pkgdef
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /Microsoft.VisualStudio.RazorExtension.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pkgdef
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /Microsoft.VisualStudio.RazorExtension.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pkgdef
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\Microsoft.VisualStudio.RazorExtension.pkgdef'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /razorLanguageService.servicehub.service.json
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /razorLanguageService.servicehub.service.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\razorLanguageService.servicehub.service.json
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /razorLanguageService.servicehub.service.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\razorLanguageService.servicehub.service.json
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\razorLanguageService.servicehub.service.json'.
+[0b00:0004][2017-10-17T09:46:57] Processing file /WebConfiguration.png
+[0b00:0004][2017-10-17T09:46:57] Started: Copying file /WebConfiguration.png to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\WebConfiguration.png
+[0b00:0004][2017-10-17T09:46:57] Completed: Copying file /WebConfiguration.png to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\WebConfiguration.png
+[0b00:0004][2017-10-17T09:46:57] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\RazorLanguageServices\WebConfiguration.png'.
+[0b00:0004][2017-10-17T09:46:57] Package executed successfully. Return code: 0

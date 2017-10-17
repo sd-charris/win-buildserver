@@ -1,0 +1,77 @@
+[0b00:0004][2017-10-17T09:45:43] Opening the package for processing
+[0b00:0004][2017-10-17T09:45:43] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:45:43] Getting list of files within the package
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/1033/cmddefui.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\cmddefui.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\cmddefui.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\cmddefui.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\Microsoft.VisualStudioUI.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/1033/msenvui.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/1033/msenvui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvui.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/1033/msenvui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvui.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvui.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Imaging.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Imaging.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Imaging.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Imaging.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Imaging.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Imaging.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.OnlineLicensing.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.OnlineLicensing.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.OnlineLicensing.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Platform.WindowManagement.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Platform.WindowManagement.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Platform.WindowManagement.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Platform.WindowManagement.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Platform.WindowManagement.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Platform.WindowManagement.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Shell.UI.Internal.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Shell.UI.Internal.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Shell.UI.Internal.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Shell.UI.Internal.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Shell.UI.Internal.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Shell.UI.Internal.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Utilities.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Utilities.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Utilities.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Utilities.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Utilities.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en\Microsoft.VisualStudio.Utilities.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.Internal.VisualStudio.UserNotifications.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.Internal.VisualStudio.UserNotifications.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.Internal.VisualStudio.UserNotifications.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.Internal.VisualStudio.UserNotifications.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.Internal.VisualStudio.UserNotifications.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.Internal.VisualStudio.UserNotifications.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Toolbox.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Toolbox.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Toolbox.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Toolbox.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Toolbox.resources.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Toolbox.resources.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Licenses/1033/Redist.txt
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Licenses/1033/Redist.txt to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\Redist.txt
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Licenses/1033/Redist.txt to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\Redist.txt
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\Redist.txt'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Licenses/1033/ThirdPartyNotices.txt
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\ThirdPartyNotices.txt
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\ThirdPartyNotices.txt
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\ThirdPartyNotices.txt'.
+[0b00:0004][2017-10-17T09:45:43] Installing ProgId: VisualStudio.git-client.7a56c1b0
+[0b00:0004][2017-10-17T09:45:43] Installing ProgId: VisualStudio.vsweb.7a56c1b0
+[0b00:0004][2017-10-17T09:45:43] Installing ProgId: VisualStudio.vstfs.7a56c1b0
+[0b00:0004][2017-10-17T09:45:43] Installing URL protocol 'git-client'
+[0b00:0004][2017-10-17T09:45:43] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\UrlAssociations
+[0b00:0004][2017-10-17T09:45:43] Installing URL protocol 'vsweb'
+[0b00:0004][2017-10-17T09:45:43] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\UrlAssociations
+[0b00:0004][2017-10-17T09:45:43] Installing URL protocol 'vstfs'
+[0b00:0004][2017-10-17T09:45:43] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\UrlAssociations
+[0b00:0004][2017-10-17T09:45:43] Package executed successfully. Return code: 0

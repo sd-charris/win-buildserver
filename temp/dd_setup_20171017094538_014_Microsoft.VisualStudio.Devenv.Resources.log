@@ -1,0 +1,29 @@
+[0b00:0004][2017-10-17T09:45:48] Opening the package for processing
+[0b00:0004][2017-10-17T09:45:48] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:45:48] Getting list of files within the package
+[0b00:0004][2017-10-17T09:45:48] Processing file /Contents/Common7/IDE/1033/msenvmui.dll
+[0b00:0004][2017-10-17T09:45:48] Started: Copying file /Contents/Common7/IDE/1033/msenvmui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvmui.dll
+[0b00:0004][2017-10-17T09:45:48] Completed: Copying file /Contents/Common7/IDE/1033/msenvmui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvmui.dll
+[0b00:0004][2017-10-17T09:45:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\msenvmui.dll'.
+[0b00:0004][2017-10-17T09:45:48] Processing file /Contents/Common7/IDE/en-US/devenvdesc.dll.mui
+[0b00:0004][2017-10-17T09:45:48] Started: Copying file /Contents/Common7/IDE/en-US/devenvdesc.dll.mui to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en-US\devenvdesc.dll.mui
+[0b00:0004][2017-10-17T09:45:48] Completed: Copying file /Contents/Common7/IDE/en-US/devenvdesc.dll.mui to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en-US\devenvdesc.dll.mui
+[0b00:0004][2017-10-17T09:45:48] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\en-US\devenvdesc.dll.mui'.
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.pkgdef.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.pkgundef.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.sln.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.vsct.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.vsixlangpack.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Installing ProgId: VisualStudio.vsixmanifest.7a56c1b0
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .pkgdef
+[0b00:0004][2017-10-17T09:45:48] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .pkgundef
+[0b00:0004][2017-10-17T09:45:48] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .sln
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .vsct
+[0b00:0004][2017-10-17T09:45:48] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .vsixlangpack
+[0b00:0004][2017-10-17T09:45:48] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:45:48] Processing file extension for install .vsixmanifest
+[0b00:0004][2017-10-17T09:45:48] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:45:48] Package executed successfully. Return code: 0

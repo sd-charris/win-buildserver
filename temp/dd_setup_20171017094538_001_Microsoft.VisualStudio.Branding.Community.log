@@ -1,0 +1,16 @@
+[0b00:0004][2017-10-17T09:45:43] Opening the package for processing
+[0b00:0004][2017-10-17T09:45:43] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:45:43] Getting list of files within the package
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/1033/BlendMui_Brand_708_10000.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/1033/BlendMui_Brand_708_10000.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\BlendMui_Brand_708_10000.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/1033/BlendMui_Brand_708_10000.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\BlendMui_Brand_708_10000.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\BlendMui_Brand_708_10000.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/1033/MsEnvMui_Brand_708_0.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/1033/MsEnvMui_Brand_708_0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\MsEnvMui_Brand_708_0.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/1033/MsEnvMui_Brand_708_0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\MsEnvMui_Brand_708_0.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\1033\MsEnvMui_Brand_708_0.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/StartPages/en/links.Community.xml
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/StartPages/en/links.Community.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\StartPages\en\links.Community.xml
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/StartPages/en/links.Community.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\StartPages\en\links.Community.xml
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\StartPages\en\links.Community.xml'.
+[0b00:0004][2017-10-17T09:45:43] Package executed successfully. Return code: 0

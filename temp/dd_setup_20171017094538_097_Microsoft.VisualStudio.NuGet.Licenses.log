@@ -1,0 +1,60 @@
+[0b00:0004][2017-10-17T09:46:41] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:41] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:41] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1028/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1028/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1028\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1028/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1028\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1028\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1029/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1029/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1029\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1029/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1029\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1029\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1031/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1031/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1031\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1031/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1031\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1031\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1033/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1033/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1033/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1036/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1036/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1036\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1036/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1036\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1036\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1040/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1040/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1040\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1040/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1040\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1040\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1041/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1041/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1041\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1041/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1041\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1041\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1042/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1042/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1042\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1042/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1042\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1042\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1045/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1045/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1045\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1045/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1045\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1045\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1046/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1046/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1046\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1046/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1046\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1046\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1049/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1049/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1049\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1049/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1049\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1049\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/1055/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/1055/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1055\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/1055/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1055\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1055\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/2052/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/2052/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\2052\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/2052/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\2052\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\2052\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Processing file /Contents/Licenses/3082/NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Started: Copying file /Contents/Licenses/3082/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\3082\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Completed: Copying file /Contents/Licenses/3082/NuGetEula.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\3082\NuGetEula.rtf
+[0b00:0004][2017-10-17T09:46:41] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\3082\NuGetEula.rtf'.
+[0b00:0004][2017-10-17T09:46:41] Package executed successfully. Return code: 0

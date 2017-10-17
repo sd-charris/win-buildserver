@@ -1,0 +1,36 @@
+[0b00:0004][2017-10-17T09:46:39] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:39] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:39] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:39] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\catalog.json
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\catalog.json
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\catalog.json'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /EngineRegistration.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /EngineRegistration.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\EngineRegistration.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /EngineRegistration.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\EngineRegistration.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\EngineRegistration.pkgdef'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\manifest.json
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\manifest.json
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\manifest.json'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.pkgdef'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll'.
+[0b00:0004][2017-10-17T09:46:39] Processing file /Newtonsoft.Json.dll
+[0b00:0004][2017-10-17T09:46:39] Started: Copying file /Newtonsoft.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Newtonsoft.Json.dll
+[0b00:0004][2017-10-17T09:46:39] Completed: Copying file /Newtonsoft.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Newtonsoft.Json.dll
+[0b00:0004][2017-10-17T09:46:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\ksssvfur.xzw\Newtonsoft.Json.dll'.
+[0b00:0004][2017-10-17T09:46:39] Package executed successfully. Return code: 0

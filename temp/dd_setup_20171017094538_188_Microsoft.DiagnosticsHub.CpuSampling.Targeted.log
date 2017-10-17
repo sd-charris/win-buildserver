@@ -1,0 +1,12 @@
+[0b00:0004][2017-10-17T09:47:43] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:43] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:43] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:43] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/CPUSampling/amd64/DiagnosticsHub.CpuSamplingAnalyzer.dll
+[0b00:0004][2017-10-17T09:47:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/CPUSampling/amd64/DiagnosticsHub.CpuSamplingAnalyzer.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\CPUSampling\amd64\DiagnosticsHub.CpuSamplingAnalyzer.dll
+[0b00:0004][2017-10-17T09:47:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/CPUSampling/amd64/DiagnosticsHub.CpuSamplingAnalyzer.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\CPUSampling\amd64\DiagnosticsHub.CpuSamplingAnalyzer.dll
+[0b00:0004][2017-10-17T09:47:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\CPUSampling\amd64\DiagnosticsHub.CpuSamplingAnalyzer.dll'.
+[0b00:0004][2017-10-17T09:47:43] Processing file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DiagnosticsHub.CpuAgent.dll
+[0b00:0004][2017-10-17T09:47:43] Started: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DiagnosticsHub.CpuAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DiagnosticsHub.CpuAgent.dll
+[0b00:0004][2017-10-17T09:47:43] Completed: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DiagnosticsHub.CpuAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DiagnosticsHub.CpuAgent.dll
+[0b00:0004][2017-10-17T09:47:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DiagnosticsHub.CpuAgent.dll'.
+[0b00:0004][2017-10-17T09:47:43] Package executed successfully. Return code: 0

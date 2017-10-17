@@ -1,0 +1,20 @@
+[0b00:0004][2017-10-17T09:47:46] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:46] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:46] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:46] Processing file /Contents/VB/Snippets/1033/application/CheckforCurrentVersionusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Started: Copying file /Contents/VB/Snippets/1033/application/CheckforCurrentVersionusingClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\CheckforCurrentVersionusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Completed: Copying file /Contents/VB/Snippets/1033/application/CheckforCurrentVersionusingClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\CheckforCurrentVersionusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\CheckforCurrentVersionusingClickOnce.snippet'.
+[0b00:0004][2017-10-17T09:47:46] Processing file /Contents/VB/Snippets/1033/application/DownloadFilesSynchronouslyClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Started: Copying file /Contents/VB/Snippets/1033/application/DownloadFilesSynchronouslyClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\DownloadFilesSynchronouslyClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Completed: Copying file /Contents/VB/Snippets/1033/application/DownloadFilesSynchronouslyClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\DownloadFilesSynchronouslyClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\DownloadFilesSynchronouslyClickOnce.snippet'.
+[0b00:0004][2017-10-17T09:47:46] Processing file /Contents/VB/Snippets/1033/application/UpdateApplicationusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Started: Copying file /Contents/VB/Snippets/1033/application/UpdateApplicationusingClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateApplicationusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Completed: Copying file /Contents/VB/Snippets/1033/application/UpdateApplicationusingClickOnce.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateApplicationusingClickOnce.snippet
+[0b00:0004][2017-10-17T09:47:46] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateApplicationusingClickOnce.snippet'.
+[0b00:0004][2017-10-17T09:47:46] Processing file /Contents/VB/Snippets/1033/application/UpdateClickonceApplicationSynchronously.snippet
+[0b00:0004][2017-10-17T09:47:46] Started: Copying file /Contents/VB/Snippets/1033/application/UpdateClickonceApplicationSynchronously.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateClickonceApplicationSynchronously.snippet
+[0b00:0004][2017-10-17T09:47:46] Completed: Copying file /Contents/VB/Snippets/1033/application/UpdateClickonceApplicationSynchronously.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateClickonceApplicationSynchronously.snippet
+[0b00:0004][2017-10-17T09:47:46] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VB\Snippets\1033\application\UpdateClickonceApplicationSynchronously.snippet'.
+[0b00:0004][2017-10-17T09:47:46] Package executed successfully. Return code: 0

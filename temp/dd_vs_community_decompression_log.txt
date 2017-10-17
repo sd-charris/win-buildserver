@@ -1,0 +1,10 @@
+[10/17/2017, 9:45:12] === Logging started: 2017/10/17 09:45:12 ===
+[10/17/2017, 9:45:12] Executable: C:\vs_community.exe v15.4.27004.2002
+[10/17/2017, 9:45:12] --- logging level: standard ---
+[10/17/2017, 9:45:12] Directory 'C:\Users\ContainerAdministrator\AppData\Local\Temp\83048f394fff13f830ecff56\' has been selected for file extraction
+[10/17/2017, 9:45:12] Extracting files to: C:\Users\ContainerAdministrator\AppData\Local\Temp\83048f394fff13f830ecff56\
+[10/17/2017, 9:45:12] Extraction took 172 milliseconds
+[10/17/2017, 9:45:12] Executing extracted package: 'vs_bootstrapper_d15\vs_setup_bootstrapper.exe ' with commandline '   --includeOptional --includeRecommended -q --wait --locale en-US     --add Microsoft.VisualStudio.Workload.NetCoreTools     --add Microsoft.VisualStudio.Workload.NetWeb'
+[10/17/2017, 9:50:33] The entire Box execution exiting with result code: 0x0
+[10/17/2017, 9:50:33] Launched extracted application exiting with result code: 0x1
+[10/17/2017, 9:50:33] === Logging stopped: 2017/10/17 09:50:33 ===

@@ -1,0 +1,104 @@
+[03E8:0A28][2017-10-17T09:48:11]i001: Burn v3.10.2.2516, Windows v10.0 (Build 14393: Service Pack 0), path: C:\Users\ContainerAdministrator\AppData\Local\Temp\{03FEE48C-7664-4FAD-BE56-712D85050125}\.cr\dotnet-sdk-2.0.2-win-x64.exe
+[03E8:0A28][2017-10-17T09:48:11]i000: Initializing string variable 'DOTNETHOME' to value '[ProgramFiles6432Folder]dotnet'
+[03E8:0A28][2017-10-17T09:48:11]i000: Initializing string variable 'BUNDLEMONIKER' to value 'Microsoft .NET Core SDK - 2.0.2'
+[03E8:0A28][2017-10-17T09:48:11]i009: Command Line: '-burn.clean.room=C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community" /log C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK.log /quiet /norestart'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleOriginalSource' to value 'C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleName' to value 'Microsoft .NET Core SDK - 2.0.2 (x64)'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleManufacturer' to value 'Microsoft Corporation'
+[03E8:0454][2017-10-17T09:48:11]i000: Setting numeric variable 'WixStdBALanguageId' to value 1033
+[03E8:0454][2017-10-17T09:48:11]i000: Setting version variable 'WixBundleFileVersion' to value '2.0.2.0'
+[03E8:0A28][2017-10-17T09:48:11]i100: Detect begin, 5 packages
+[03E8:0A28][2017-10-17T09:48:11]i101: Detected package: dotnet_runtime_2.0.0_win_x64.msi, state: Absent, cached: None
+[03E8:0A28][2017-10-17T09:48:11]i101: Detected package: dotnet_hostfxr_2.0.0_win_x64.msi, state: Absent, cached: None
+[03E8:0A28][2017-10-17T09:48:11]i101: Detected package: dotnet_host_2.0.0_win_x64.msi, state: Absent, cached: None
+[03E8:0A28][2017-10-17T09:48:11]i101: Detected package: dotnet_sdk_internal_2.0.2_win_x64.msi, state: Absent, cached: None
+[03E8:0A28][2017-10-17T09:48:11]i101: Detected package: AspNetCoreRuntimePackageStore_x64, state: Absent, cached: None
+[03E8:0A28][2017-10-17T09:48:11]i199: Detect complete, result: 0x0
+[03E8:0A28][2017-10-17T09:48:11]i200: Plan begin, 5 packages, action: Install
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleRollbackLog_dotnet_runtime_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_000_dotnet_runtime_2.0.0_win_x64.msi_rollback.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog_dotnet_runtime_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_000_dotnet_runtime_2.0.0_win_x64.msi.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleRollbackLog_dotnet_hostfxr_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_001_dotnet_hostfxr_2.0.0_win_x64.msi_rollback.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog_dotnet_hostfxr_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_001_dotnet_hostfxr_2.0.0_win_x64.msi.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleRollbackLog_dotnet_host_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_002_dotnet_host_2.0.0_win_x64.msi_rollback.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog_dotnet_host_2.0.0_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_002_dotnet_host_2.0.0_win_x64.msi.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleRollbackLog_dotnet_sdk_internal_2.0.2_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_003_dotnet_sdk_internal_2.0.2_win_x64.msi_rollback.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog_dotnet_sdk_internal_2.0.2_win_x64.msi' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_003_dotnet_sdk_internal_2.0.2_win_x64.msi.log'
+[03E8:0A28][2017-10-17T09:48:11]i052: Condition 'VersionNT64' evaluates to true.
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleRollbackLog_AspNetCoreRuntimePackageStore_x64' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_004_AspNetCoreRuntimePackageStore_x64_rollback.log'
+[03E8:0A28][2017-10-17T09:48:11]i000: Setting string variable 'WixBundleLog_AspNetCoreRuntimePackageStore_x64' to value 'C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_004_AspNetCoreRuntimePackageStore_x64.log'
+[03E8:0A28][2017-10-17T09:48:11]i201: Planned package: dotnet_runtime_2.0.0_win_x64.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[03E8:0A28][2017-10-17T09:48:11]i201: Planned package: dotnet_hostfxr_2.0.0_win_x64.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[03E8:0A28][2017-10-17T09:48:11]i201: Planned package: dotnet_host_2.0.0_win_x64.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[03E8:0A28][2017-10-17T09:48:11]i201: Planned package: dotnet_sdk_internal_2.0.2_win_x64.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[03E8:0A28][2017-10-17T09:48:11]i201: Planned package: AspNetCoreRuntimePackageStore_x64, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[03E8:0A28][2017-10-17T09:48:11]i299: Plan complete, result: 0x0
+[03E8:0A28][2017-10-17T09:48:11]i300: Apply begin
+[03E8:0A28][2017-10-17T09:48:11]i010: Launching elevated engine process.
+[03E8:0A28][2017-10-17T09:48:12]i011: Launched elevated engine process.
+[03E8:0A28][2017-10-17T09:48:12]i012: Connected to elevated engine.
+[03B0:0A30][2017-10-17T09:48:12]i358: Pausing automatic updates.
+[03B0:0A30][2017-10-17T09:48:12]w308: Automatic updates could not be paused due to error: 0x80040154. Continuing...
+[03B0:0A30][2017-10-17T09:48:12]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7976d84c-fdff-4801-99ca-cd8354fbbaaf}, options: 0x7, disable resume: No
+[03B0:0A30][2017-10-17T09:48:12]i000: Caching bundle from: 'C:\Users\ContainerAdministrator\AppData\Local\Temp\{DD775E8C-814E-43FE-9830-FB1A549978B1}\.be\dotnet-sdk-2.0.2-win-x64.exe' to: 'C:\ProgramData\Package Cache\{7976d84c-fdff-4801-99ca-cd8354fbbaaf}\dotnet-sdk-2.0.2-win-x64.exe'
+[03B0:0A30][2017-10-17T09:48:12]i320: Registering bundle dependency provider: {7976d84c-fdff-4801-99ca-cd8354fbbaaf}, version: 2.0.2.0
+[03B0:0A30][2017-10-17T09:48:12]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7976d84c-fdff-4801-99ca-cd8354fbbaaf}, resume: Active, restart initiated: No, disable resume: No
+[03E8:0758][2017-10-17T09:48:12]i336: Acquiring container: WixAttachedContainer, copy from: C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe
+[03E8:0758][2017-10-17T09:48:12]i000: Setting string variable 'WixBundleLastUsedSource' to value 'C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\'
+[03B0:0A10][2017-10-17T09:48:12]i305: Verified acquired payload: dotnet_runtime_2.0.0_win_x64.msi at path: C:\ProgramData\Package Cache\.unverified\dotnet_runtime_2.0.0_win_x64.msi, moving to: C:\ProgramData\Package Cache\{BE54D79A-4E7F-4F5D-AB22-9CD46397F2F3}v16.0.25521\dotnet-runtime-2.0.0-win-x64.msi.
+[03B0:0A30][2017-10-17T09:48:13]i301: Applying execute package: dotnet_runtime_2.0.0_win_x64.msi, action: Install, path: C:\ProgramData\Package Cache\{BE54D79A-4E7F-4F5D-AB22-9CD46397F2F3}v16.0.25521\dotnet-runtime-2.0.0-win-x64.msi, arguments: ' ARPSYSTEMCOMPONENT="1" DOTNETHOME="C:\Program Files\dotnet"'
+[03B0:0A10][2017-10-17T09:48:13]i305: Verified acquired payload: dotnet_hostfxr_2.0.0_win_x64.msi at path: C:\ProgramData\Package Cache\.unverified\dotnet_hostfxr_2.0.0_win_x64.msi, moving to: C:\ProgramData\Package Cache\{EFF72D79-E9BA-44B2-8187-DBC6D69E7F22}v16.0.25521\dotnet-hostfxr-2.0.0-win-x64.msi.
+[03B0:0A10][2017-10-17T09:48:13]i305: Verified acquired payload: dotnet_host_2.0.0_win_x64.msi at path: C:\ProgramData\Package Cache\.unverified\dotnet_host_2.0.0_win_x64.msi, moving to: C:\ProgramData\Package Cache\{CC604AD5-82F0-47C4-BC0E-635DC1092828}v16.0.25521\dotnet-host-2.0.0-win-x64.msi.
+[03B0:0A10][2017-10-17T09:48:13]i305: Verified acquired payload: dotnet_sdk_internal_2.0.2_win_x64.msi at path: C:\ProgramData\Package Cache\.unverified\dotnet_sdk_internal_2.0.2_win_x64.msi, moving to: C:\ProgramData\Package Cache\{1F57119A-E76E-4BE9-9110-0E09933FB3F9}v8.0.39737\dotnet-sdk-internal-2.0.2-win-x64.msi.
+[03B0:0A10][2017-10-17T09:48:13]i305: Verified acquired payload: cab2CCD0DEC8B634FA6FA26FD9409400699 at path: C:\ProgramData\Package Cache\.unverified\cab2CCD0DEC8B634FA6FA26FD9409400699, moving to: C:\ProgramData\Package Cache\{1F57119A-E76E-4BE9-9110-0E09933FB3F9}v8.0.39737\dnet-1.cab.
+[03B0:0A10][2017-10-17T09:48:13]i305: Verified acquired payload: AspNetCoreRuntimePackageStore_x64 at path: C:\ProgramData\Package Cache\.unverified\AspNetCoreRuntimePackageStore_x64, moving to: C:\ProgramData\Package Cache\{53F12DF1-23C7-3C4B-92AB-FCE8A6ABC3AB}v2.0.11926.0\AspNetCore.2.0.0.RuntimePackageStore_x64.msi.
+[03E8:0A28][2017-10-17T09:48:13]i319: Applied execute package: dotnet_runtime_2.0.0_win_x64.msi, result: 0x0, restart: None
+[03B0:0A30][2017-10-17T09:48:13]i325: Registering dependency: {7976d84c-fdff-4801-99ca-cd8354fbbaaf} on package provider: DotNet.CLI.SharedFramework.Microsoft.NETCore.App_2.0.0_x64, package: dotnet_runtime_2.0.0_win_x64.msi
+[03B0:0A30][2017-10-17T09:48:13]i301: Applying execute package: dotnet_hostfxr_2.0.0_win_x64.msi, action: Install, path: C:\ProgramData\Package Cache\{EFF72D79-E9BA-44B2-8187-DBC6D69E7F22}v16.0.25521\dotnet-hostfxr-2.0.0-win-x64.msi, arguments: ' ARPSYSTEMCOMPONENT="1" DOTNETHOME="C:\Program Files\dotnet"'
+[03E8:0A28][2017-10-17T09:48:14]i319: Applied execute package: dotnet_hostfxr_2.0.0_win_x64.msi, result: 0x0, restart: None
+[03B0:0A30][2017-10-17T09:48:14]i325: Registering dependency: {7976d84c-fdff-4801-99ca-cd8354fbbaaf} on package provider: Dotnet_CLI_HostFxr_2.0.0_x64, package: dotnet_hostfxr_2.0.0_win_x64.msi
+[03B0:0A30][2017-10-17T09:48:14]i301: Applying execute package: dotnet_host_2.0.0_win_x64.msi, action: Install, path: C:\ProgramData\Package Cache\{CC604AD5-82F0-47C4-BC0E-635DC1092828}v16.0.25521\dotnet-host-2.0.0-win-x64.msi, arguments: ' ARPSYSTEMCOMPONENT="1" DOTNETHOME="C:\Program Files\dotnet"'
+[03E8:0A28][2017-10-17T09:48:14]i319: Applied execute package: dotnet_host_2.0.0_win_x64.msi, result: 0x0, restart: None
+[03B0:0A30][2017-10-17T09:48:14]i325: Registering dependency: {7976d84c-fdff-4801-99ca-cd8354fbbaaf} on package provider: Dotnet_CLI_SharedHost_16.0.25521_x64, package: dotnet_host_2.0.0_win_x64.msi
+[03B0:0A30][2017-10-17T09:48:14]i301: Applying execute package: dotnet_sdk_internal_2.0.2_win_x64.msi, action: Install, path: C:\ProgramData\Package Cache\{1F57119A-E76E-4BE9-9110-0E09933FB3F9}v8.0.39737\dotnet-sdk-internal-2.0.2-win-x64.msi, arguments: ' ARPSYSTEMCOMPONENT="1" DOTNETHOME="C:\Program Files\dotnet" EXEFULLPATH="C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe"'
+[03E8:0A28][2017-10-17T09:48:32]i319: Applied execute package: dotnet_sdk_internal_2.0.2_win_x64.msi, result: 0x0, restart: None
+[03B0:0A30][2017-10-17T09:48:32]i325: Registering dependency: {7976d84c-fdff-4801-99ca-cd8354fbbaaf} on package provider: Dotnet_CLI_2.0.2_x64, package: dotnet_sdk_internal_2.0.2_win_x64.msi
+[03B0:0A30][2017-10-17T09:48:32]i301: Applying execute package: AspNetCoreRuntimePackageStore_x64, action: Install, path: C:\ProgramData\Package Cache\{53F12DF1-23C7-3C4B-92AB-FCE8A6ABC3AB}v2.0.11926.0\AspNetCore.2.0.0.RuntimePackageStore_x64.msi, arguments: ' ARPSYSTEMCOMPONENT="1" MSIFASTINSTALL="7"'
+[03E8:0A28][2017-10-17T09:48:33]i319: Applied execute package: AspNetCoreRuntimePackageStore_x64, result: 0x0, restart: None
+[03B0:0A30][2017-10-17T09:48:33]i325: Registering dependency: {7976d84c-fdff-4801-99ca-cd8354fbbaaf} on package provider: Microsoft.AspNetCore.Runtime.Package.Store_x64_ENU,v2.0,RTM, package: AspNetCoreRuntimePackageStore_x64
+[03B0:0A30][2017-10-17T09:48:33]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7976d84c-fdff-4801-99ca-cd8354fbbaaf}, resume: ARP, restart: None, disable resume: No
+[03B0:0A30][2017-10-17T09:48:33]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7976d84c-fdff-4801-99ca-cd8354fbbaaf}, resume: ARP, restart initiated: No, disable resume: No
+[03E8:0A28][2017-10-17T09:48:33]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[03E8:0A28][2017-10-17T09:48:33]i500: Shutting down, exit code: 0x0
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: BUNDLEMONIKER = Microsoft .NET Core SDK - 2.0.2
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: DOTNETHOME = C:\Program Files\dotnet
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: ProgramFiles6432Folder = C:\Program Files\
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: VersionNT64 = 10.0.0.0
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleAction = 5
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleElevated = 1
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleFileVersion = 2.0.2.0
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleInstalled = 0
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLastUsedSource = C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog_AspNetCoreRuntimePackageStore_x64 = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_004_AspNetCoreRuntimePackageStore_x64.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog_dotnet_host_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_002_dotnet_host_2.0.0_win_x64.msi.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog_dotnet_hostfxr_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_001_dotnet_hostfxr_2.0.0_win_x64.msi.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog_dotnet_runtime_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_000_dotnet_runtime_2.0.0_win_x64.msi.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleLog_dotnet_sdk_internal_2.0.2_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_003_dotnet_sdk_internal_2.0.2_win_x64.msi.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleManufacturer = Microsoft Corporation
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleName = Microsoft .NET Core SDK - 2.0.2 (x64)
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleOriginalSource = C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleOriginalSourceFolder = C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleProviderKey = {7976d84c-fdff-4801-99ca-cd8354fbbaaf}
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleRollbackLog_AspNetCoreRuntimePackageStore_x64 = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_004_AspNetCoreRuntimePackageStore_x64_rollback.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleRollbackLog_dotnet_host_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_002_dotnet_host_2.0.0_win_x64.msi_rollback.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleRollbackLog_dotnet_hostfxr_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_001_dotnet_hostfxr_2.0.0_win_x64.msi_rollback.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleRollbackLog_dotnet_runtime_2.0.0_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_000_dotnet_runtime_2.0.0_win_x64.msi_rollback.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleRollbackLog_dotnet_sdk_internal_2.0.2_win_x64.msi = C:\Users\ContainerAdministrator\AppData\Local\Temp\dd_setup_20171017094538_262_Microsoft.Net.Core.SDK_003_dotnet_sdk_internal_2.0.2_win_x64.msi_rollback.log
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleSourceProcessFolder = C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleSourceProcessPath = C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Net.Core.SDK,version=15.0.26929.2,chip=x64\dotnet-sdk-2.0.2-win-x64.exe
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleTag = 
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixBundleVersion = 2.0.2.0
+[03E8:0A28][2017-10-17T09:48:33]i410: Variable: WixStdBALanguageId = 1033
+[03E8:0A28][2017-10-17T09:48:33]i007: Exit code: 0x0, restarting: No

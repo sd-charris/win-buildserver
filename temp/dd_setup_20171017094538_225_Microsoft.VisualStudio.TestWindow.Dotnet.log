@@ -1,0 +1,24 @@
+[0b00:0004][2017-10-17T09:47:53] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:53] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:53] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:53] Processing file /app.config
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /app.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\app.config
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /app.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\app.config
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\app.config'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /catalog.json
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\catalog.json
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\catalog.json
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\catalog.json'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /manifest.json
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\manifest.json
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\manifest.json
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\manifest.json'.
+[0b00:0004][2017-10-17T09:47:53] Processing file /TestWindow.Dotnet.Core.dll
+[0b00:0004][2017-10-17T09:47:53] Started: Copying file /TestWindow.Dotnet.Core.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\TestWindow.Dotnet.Core.dll
+[0b00:0004][2017-10-17T09:47:53] Completed: Copying file /TestWindow.Dotnet.Core.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\TestWindow.Dotnet.Core.dll
+[0b00:0004][2017-10-17T09:47:53] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\TestWindow.Dotnet\TestWindow.Dotnet.Core.dll'.
+[0b00:0004][2017-10-17T09:47:53] Package executed successfully. Return code: 0

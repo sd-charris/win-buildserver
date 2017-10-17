@@ -1,0 +1,303 @@
+[0b00:0004][2017-10-17T09:47:07] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:07] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:07] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/Common7/Tools/vsdevcmd/ext/roslyn.bat
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/roslyn.bat to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\vsdevcmd\ext\roslyn.bat
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/roslyn.bat to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\vsdevcmd\ext\roslyn.bat
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\vsdevcmd\ext\roslyn.bat'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/csc.exe' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe.config
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe.config
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe.config
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe.config'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csc.rsp
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.rsp
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csc.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.rsp
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.rsp'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/csi.exe' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe.config
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe.config
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe.config
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe.config'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/csi.rsp
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.rsp
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/csi.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.rsp
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.rsp'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.Scripting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.Scripting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.Scripting.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.VisualBasic.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.VisualBasic.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CodeAnalysis.VisualBasic.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CSharp.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CSharp.Core.targets to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.CSharp.Core.targets to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.VisualBasic.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.VisualBasic.Core.targets to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.VisualBasic.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.VisualBasic.Core.targets to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.VisualBasic.Core.targets
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.VisualBasic.Core.targets'.
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Win32.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Win32.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Win32.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Win32.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Win32.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Win32.Primitives.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Win32.Primitives.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.Win32.Primitives.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/Microsoft.Win32.Primitives.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.AppContext.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.AppContext.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.AppContext.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.AppContext.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.AppContext.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.AppContext.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.AppContext.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.AppContext.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.AppContext.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Collections.Immutable.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Collections.Immutable.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Collections.Immutable.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Collections.Immutable.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Collections.Immutable.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Collections.Immutable.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Collections.Immutable.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Collections.Immutable.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Collections.Immutable.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Console.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Console.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Console.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Console.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Console.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Console.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Console.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Console.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Console.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.FileVersionInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.FileVersionInfo.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.FileVersionInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.FileVersionInfo.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.FileVersionInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.FileVersionInfo.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.FileVersionInfo.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.FileVersionInfo.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.FileVersionInfo.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.Process.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.Process.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.Process.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.Process.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.Process.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.Process.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.Process.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.Process.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.Process.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.StackTrace.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.StackTrace.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.StackTrace.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.StackTrace.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.StackTrace.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.StackTrace.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.StackTrace.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Diagnostics.StackTrace.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Diagnostics.StackTrace.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Compression.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Compression.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Compression.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Compression.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Compression.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Compression.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Compression.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Compression.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Compression.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.DriveInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.DriveInfo.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.DriveInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.DriveInfo.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.DriveInfo.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.DriveInfo.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.DriveInfo.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.DriveInfo.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.DriveInfo.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.Primitives.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.Primitives.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.FileSystem.Primitives.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.IO.FileSystem.Primitives.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Pipes.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Pipes.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Pipes.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Pipes.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Pipes.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Pipes.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Pipes.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.IO.Pipes.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.IO.Pipes.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Reflection.Metadata.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Reflection.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Reflection.Metadata.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Reflection.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Reflection.Metadata.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Reflection.Metadata.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Reflection.Metadata.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Reflection.Metadata.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Reflection.Metadata.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.AccessControl.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.AccessControl.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.AccessControl.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.AccessControl.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.AccessControl.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.AccessControl.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.AccessControl.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Claims.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Claims.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Claims.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Claims.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Claims.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Claims.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Claims.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Claims.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Claims.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Algorithms.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Algorithms.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Algorithms.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Algorithms.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Algorithms.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Algorithms.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Algorithms.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Algorithms.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Algorithms.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Encoding.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Encoding.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Encoding.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Encoding.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Encoding.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Encoding.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Encoding.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Encoding.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Encoding.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Primitives.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Primitives.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Primitives.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.Primitives.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:07] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.Primitives.dll' for ngen
+[0b00:0004][2017-10-17T09:47:07] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.X509Certificates.dll
+[0b00:0004][2017-10-17T09:47:07] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.X509Certificates.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.X509Certificates.dll
+[0b00:0004][2017-10-17T09:47:07] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.X509Certificates.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.X509Certificates.dll
+[0b00:0004][2017-10-17T09:47:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.X509Certificates.dll'.
+[0b00:0004][2017-10-17T09:47:07] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.X509Certificates.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Cryptography.X509Certificates.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Cryptography.X509Certificates.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Principal.Windows.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Principal.Windows.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Principal.Windows.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Principal.Windows.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Principal.Windows.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Principal.Windows.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Principal.Windows.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Security.Principal.Windows.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Security.Principal.Windows.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Text.Encoding.CodePages.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Text.Encoding.CodePages.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Text.Encoding.CodePages.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Text.Encoding.CodePages.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Text.Encoding.CodePages.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Text.Encoding.CodePages.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Text.Encoding.CodePages.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Text.Encoding.CodePages.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Text.Encoding.CodePages.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Threading.Thread.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Threading.Thread.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Threading.Thread.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Threading.Thread.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Threading.Thread.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Threading.Thread.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Threading.Thread.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Threading.Thread.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Threading.Thread.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.ValueTuple.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.ValueTuple.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.ValueTuple.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.ValueTuple.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.ValueTuple.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.ValueTuple.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.ValueTuple.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.ReaderWriter.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.ReaderWriter.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.ReaderWriter.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.ReaderWriter.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.ReaderWriter.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.ReaderWriter.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.ReaderWriter.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.ReaderWriter.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.ReaderWriter.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XmlDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XmlDocument.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XmlDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XmlDocument.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XmlDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XmlDocument.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XmlDocument.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XmlDocument.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XmlDocument.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.XDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.XDocument.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.XDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.XDocument.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.XDocument.dll
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.XDocument.dll'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.XDocument.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\System.Xml.XPath.XDocument.dll for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/System.Xml.XPath.XDocument.dll' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe.config
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe.config
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe.config
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.exe.config'.
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.rsp
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.rsp
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/vbc.rsp to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.rsp
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\vbc.rsp'.
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe'.
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:08] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe for X64 ngen
+[0b00:0004][2017-10-17T09:47:08] Successfully queued file '/Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe' for ngen
+[0b00:0004][2017-10-17T09:47:08] Processing file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe.config
+[0b00:0004][2017-10-17T09:47:08] Started: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe.config
+[0b00:0004][2017-10-17T09:47:08] Completed: Copying file /Contents/MSBuild/15.0/Bin/Roslyn/VBCSCompiler.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe.config
+[0b00:0004][2017-10-17T09:47:08] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\VBCSCompiler.exe.config'.
+[0b00:0004][2017-10-17T09:47:08] Package executed successfully. Return code: 0

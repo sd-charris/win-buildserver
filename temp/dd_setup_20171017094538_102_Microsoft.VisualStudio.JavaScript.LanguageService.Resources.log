@@ -1,0 +1,7 @@
+[0b00:0004][2017-10-17T09:46:45] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:45] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:45] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:45] Installing ProgId: VisualStudio.js.7a56c1b0
+[0b00:0004][2017-10-17T09:46:45] Processing file extension for install .js
+[0b00:0004][2017-10-17T09:46:45] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:46:45] Package executed successfully. Return code: 0

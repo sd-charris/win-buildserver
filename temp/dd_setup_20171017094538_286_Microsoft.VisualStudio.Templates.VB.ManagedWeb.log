@@ -1,0 +1,12 @@
+[0b00:0004][2017-10-17T09:49:36] Opening the package for processing
+[0b00:0004][2017-10-17T09:49:36] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:49:36] Getting list of files within the package
+[0b00:0004][2017-10-17T09:49:36] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman
+[0b00:0004][2017-10-17T09:49:36] Started: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman
+[0b00:0004][2017-10-17T09:49:36] Completed: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman
+[0b00:0004][2017-10-17T09:49:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.Templates.VB.ManagedWeb.Project..vstman'.
+[0b00:0004][2017-10-17T09:49:36] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Web/Web.VSTDIR
+[0b00:0004][2017-10-17T09:49:36] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Web/Web.VSTDIR to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\VisualBasic\Web\Web.VSTDIR
+[0b00:0004][2017-10-17T09:49:36] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Web/Web.VSTDIR to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\VisualBasic\Web\Web.VSTDIR
+[0b00:0004][2017-10-17T09:49:36] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ProjectTemplates\VisualBasic\Web\Web.VSTDIR'.
+[0b00:0004][2017-10-17T09:49:36] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+[0b00:0004][2017-10-17T09:47:44] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:44] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:44] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:44] Processing file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vsinstrui.dll
+[0b00:0004][2017-10-17T09:47:44] Started: Copying file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vsinstrui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vsinstrui.dll
+[0b00:0004][2017-10-17T09:47:44] Completed: Copying file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vsinstrui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vsinstrui.dll
+[0b00:0004][2017-10-17T09:47:44] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vsinstrui.dll'.
+[0b00:0004][2017-10-17T09:47:44] Processing file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vspmsgui.dll
+[0b00:0004][2017-10-17T09:47:44] Started: Copying file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vspmsgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vspmsgui.dll
+[0b00:0004][2017-10-17T09:47:44] Completed: Copying file /Contents/Team%20Tools/Performance%20Tools/x64/1033/vspmsgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vspmsgui.dll
+[0b00:0004][2017-10-17T09:47:44] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64\1033\vspmsgui.dll'.
+[0b00:0004][2017-10-17T09:47:44] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+[0b00:0004][2017-10-17T09:46:38] Opening the package for processing
+[0b00:0004][2017-10-17T09:46:38] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:46:38] Getting list of files within the package
+[0b00:0004][2017-10-17T09:46:38] Processing file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/AsyncCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Started: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/AsyncCollectionAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\AsyncCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Completed: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/AsyncCollectionAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\AsyncCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\AsyncCollectionAgent.dll'.
+[0b00:0004][2017-10-17T09:46:38] Processing file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DebugEventCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Started: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DebugEventCollectionAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DebugEventCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Completed: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/DebugEventCollectionAgent.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DebugEventCollectionAgent.dll
+[0b00:0004][2017-10-17T09:46:38] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\DiagnosticsHub\Collector\Agents\DebugEventCollectionAgent.dll'.
+[0b00:0004][2017-10-17T09:46:38] Package executed successfully. Return code: 0

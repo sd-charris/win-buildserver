@@ -1,0 +1,12 @@
+[0b00:0004][2017-10-17T09:45:47] Opening the package for processing
+[0b00:0004][2017-10-17T09:45:47] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:45:47] Getting list of files within the package
+[0b00:0004][2017-10-17T09:45:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Shell.Connected.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Shell.Connected.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Shell.Connected.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.Shell.Connected.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Shell.Connected.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.Shell.Connected.resources.dll'.
+[0b00:0004][2017-10-17T09:45:47] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.Developer.Settings/en/Microsoft.Developer.Settings.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Started: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.Developer.Settings/en/Microsoft.Developer.Settings.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ServiceHub\Services\Microsoft.Developer.Settings\en\Microsoft.Developer.Settings.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Completed: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.Developer.Settings/en/Microsoft.Developer.Settings.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ServiceHub\Services\Microsoft.Developer.Settings\en\Microsoft.Developer.Settings.resources.dll
+[0b00:0004][2017-10-17T09:45:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ServiceHub\Services\Microsoft.Developer.Settings\en\Microsoft.Developer.Settings.resources.dll'.
+[0b00:0004][2017-10-17T09:45:47] Package executed successfully. Return code: 0

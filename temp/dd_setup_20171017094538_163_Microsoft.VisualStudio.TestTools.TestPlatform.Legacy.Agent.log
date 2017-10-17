@@ -1,0 +1,112 @@
+[0b00:0004][2017-10-17T09:47:39] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:39] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:39] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/Extensions/Microsoft/TestTools/Legacy/Agent/TestListEditorLicense.pkgdef
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/TestTools/Legacy/Agent/TestListEditorLicense.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\TestTools\Legacy\Agent\TestListEditorLicense.pkgdef
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/TestTools/Legacy/Agent/TestListEditorLicense.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\TestTools\Legacy\Agent\TestListEditorLicense.pkgdef
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\TestTools\Legacy\Agent\TestListEditorLicense.pkgdef'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/MSTest.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/MSTest.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/MSTest.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/MSTest.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/MSTest.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/MSTest.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/MSTest.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\MSTest.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CommandLine.dll
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CommandLine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CommandLine.dll
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CommandLine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CommandLine.dll
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CommandLine.dll'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CommandLine.dll for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CommandLine.dll' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.NICServices.dll
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.NICServices.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.NICServices.dll
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.NICServices.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.NICServices.dll
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.NICServices.dll'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent32.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32_35.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32_35.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32_35.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent32_35.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32_35.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32_35.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_35.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32_40.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32_40.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32_40.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent32_40.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent32_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent32_40.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent32_40.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent32_40.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent_35.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent_35.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent_35.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent_35.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent_35.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent_35.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_35.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent_40.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent_40.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent_40.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTAgent_40.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTAgent_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTAgent_40.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTAgent_40.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTAgent_40.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTDCAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTDCAgent.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTDCAgent.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTDCAgent.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTDCAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTDCAgent.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTDCAgent.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTDCAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTDCAgent32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTDCAgent32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe'.
+[0b00:0004][2017-10-17T09:47:39] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe for X86 ngen
+[0b00:0004][2017-10-17T09:47:39] Successfully queued file '/Contents/Common7/IDE/QTDCAgent32.exe' for ngen
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/QTDCAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/QTDCAgent32.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/QTDCAgent32.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe.config
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\QTDCAgent32.exe.config'.
+[0b00:0004][2017-10-17T09:47:39] Package executed successfully. Return code: 0

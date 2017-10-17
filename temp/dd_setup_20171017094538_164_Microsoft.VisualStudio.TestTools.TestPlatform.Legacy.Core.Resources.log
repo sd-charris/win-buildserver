@@ -1,0 +1,53 @@
+[0b00:0004][2017-10-17T09:47:39] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:39] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:39] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:39] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.en-US.Item..vstman'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.testsettings
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.testsettings
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.testsettings
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.testsettings'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.vstemplate
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.vstemplate
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/Test/1033/TestSettings/TestSettings.vstemplate to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.vstemplate
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ItemTemplates\Test\1033\TestSettings\TestSettings.vstemplate'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.CodedUITestUI.dll'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.TestCaseManagementUI.dll'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/Local.testsettings
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/Local.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\Local.testsettings
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/Local.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\Local.testsettings
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\Local.testsettings'.
+[0b00:0004][2017-10-17T09:47:39] Processing file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/TraceAndTestImpact.testsettings
+[0b00:0004][2017-10-17T09:47:39] Started: Copying file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/TraceAndTestImpact.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\TraceAndTestImpact.testsettings
+[0b00:0004][2017-10-17T09:47:39] Completed: Copying file /Contents/Team%20Tools/Testing%20Tools/TestProjectCommon/Templates/TestSettings/1033/TraceAndTestImpact.testsettings to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\TraceAndTestImpact.testsettings
+[0b00:0004][2017-10-17T09:47:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Testing Tools\TestProjectCommon\Templates\TestSettings\1033\TraceAndTestImpact.testsettings'.
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.coverage.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.coverage.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.testrunconfig.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.testsettings.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.trx.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.uitest.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Installing ProgId: VisualStudio.vsmdi.7a56c1b0
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .coverage
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .coverage
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .testrunconfig
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .testsettings
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .trx
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .uitest
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Processing file extension for install .vsmdi
+[0b00:0004][2017-10-17T09:47:39] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:39] Package executed successfully. Return code: 0

@@ -1,0 +1,20 @@
+[0b00:0004][2017-10-17T09:47:40] Opening the package for processing
+[0b00:0004][2017-10-17T09:47:40] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:47:40] Getting list of files within the package
+[0b00:0004][2017-10-17T09:47:40] Processing file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll
+[0b00:0004][2017-10-17T09:47:40] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll
+[0b00:0004][2017-10-17T09:47:40] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/1033/Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll
+[0b00:0004][2017-10-17T09:47:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\1033\Microsoft.VisualStudio.QualityTools.Tips.TuipPackageUI.dll'.
+[0b00:0004][2017-10-17T09:47:40] Installing ProgId: VisualStudio.accessor.7a56c1b0
+[0b00:0004][2017-10-17T09:47:40] Installing ProgId: VisualStudio.generictest.7a56c1b0
+[0b00:0004][2017-10-17T09:47:40] Installing ProgId: VisualStudio.orderedtest.7a56c1b0
+[0b00:0004][2017-10-17T09:47:40] Installing ProgId: VisualStudio.mtx.7a56c1b0
+[0b00:0004][2017-10-17T09:47:40] Processing file extension for install .accessor
+[0b00:0004][2017-10-17T09:47:40] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:40] Processing file extension for install .generictest
+[0b00:0004][2017-10-17T09:47:40] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:40] Processing file extension for install .orderedtest
+[0b00:0004][2017-10-17T09:47:40] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:40] Processing file extension for install .mtx
+[0b00:0004][2017-10-17T09:47:40] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
+[0b00:0004][2017-10-17T09:47:40] Package executed successfully. Return code: 0

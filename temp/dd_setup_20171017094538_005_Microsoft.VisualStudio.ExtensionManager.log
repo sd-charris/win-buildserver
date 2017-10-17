@@ -1,0 +1,122 @@
+[0b00:0004][2017-10-17T09:45:43] Opening the package for processing
+[0b00:0004][2017-10-17T09:45:43] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:45:43] Getting list of files within the package
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extensionManager.serviceHub.service.json
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extensionManager.serviceHub.service.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extensionManager.serviceHub.service.json
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/extensionManager.serviceHub.service.json to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extensionManager.serviceHub.service.json
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\extensionManager.serviceHub.service.json'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ExtensionManager/ServiceModule/Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\ExtensionManager\ServiceModule\Microsoft.VisualStudio.ExtensionManager.ServiceModule.dll'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CompatibilityList.xml
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CompatibilityList.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\CompatibilityList.xml
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CompatibilityList.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\CompatibilityList.xml
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\CompatibilityList.xml'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Visual%20Studio%20MPF/15.0/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Visual%20Studio%20MPF/15.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Visual Studio MPF\15.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Visual%20Studio%20MPF/15.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Visual Studio MPF\15.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Platform\Visual Studio MPF\15.0\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/10.0/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/10.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\10.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/10.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\10.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\10.0\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/11.0/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/11.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\11.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/11.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\11.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\11.0\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/12.0/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/12.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\12.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/12.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\12.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\12.0\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/14.0/extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/14.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\14.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Visual%20Studio%20MPF/14.0/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\14.0\extension.vsixmanifest
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\14.0\extension.vsixmanifest'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll'.
+[0b00:0004][2017-10-17T09:45:43] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll for X86 ngen
+[0b00:0004][2017-10-17T09:45:43] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll' for ngen
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.dll'.
+[0b00:0004][2017-10-17T09:45:43] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.dll for X86 ngen
+[0b00:0004][2017-10-17T09:45:43] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.dll' for ngen
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll'.
+[0b00:0004][2017-10-17T09:45:43] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll for X86 ngen
+[0b00:0004][2017-10-17T09:45:43] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll' for ngen
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/VSHiveStub.exe
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/VSHiveStub.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSHiveStub.exe
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/VSHiveStub.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSHiveStub.exe
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSHiveStub.exe'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/VSIXAutoUpdate.exe
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/VSIXAutoUpdate.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/VSIXAutoUpdate.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/VSIXAutoUpdate.exe.config
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/VSIXAutoUpdate.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe.config
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/VSIXAutoUpdate.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe.config
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXAutoUpdate.exe.config'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/VSIXInstaller.exe
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Common7/IDE/VSIXInstaller.exe.config
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe.config
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe.config
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VSIXInstaller.exe.config'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageLanguagePackManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageLanguagePackManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageLanguagePackManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageLanguagePackManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageLanguagePackManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageLanguagePackManifestSchema.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Assets.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Assets.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Assets.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Assets.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Assets.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Assets.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Dependencies.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Dependencies.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Dependencies.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Dependencies.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Dependencies.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Dependencies.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Installation.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Installation.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installation.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Installation.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installation.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installation.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Installer.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Installer.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installer.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Installer.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installer.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Installer.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Metadata.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Metadata.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Metadata.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Metadata.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Metadata.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Metadata.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Prerequisites.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Prerequisites.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Prerequisites.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.Prerequisites.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Prerequisites.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.Prerequisites.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/PackageManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/PackageManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/PackageManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\PackageManifestSchema.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/VSIXLanguagePackSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/VSIXLanguagePackSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXLanguagePackSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/VSIXLanguagePackSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXLanguagePackSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXLanguagePackSchema.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Processing file /Contents/Xml/Schemas/VSIXManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Started: Copying file /Contents/Xml/Schemas/VSIXManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Completed: Copying file /Contents/Xml/Schemas/VSIXManifestSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXManifestSchema.xsd
+[0b00:0004][2017-10-17T09:45:43] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\VSIXManifestSchema.xsd'.
+[0b00:0004][2017-10-17T09:45:43] Package executed successfully. Return code: 0

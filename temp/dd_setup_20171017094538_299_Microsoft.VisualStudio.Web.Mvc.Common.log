@@ -1,0 +1,16 @@
+[0b00:0004][2017-10-17T09:49:47] Opening the package for processing
+[0b00:0004][2017-10-17T09:49:47] Using package payload to get the embedded manifest
+[0b00:0004][2017-10-17T09:49:47] Getting list of files within the package
+[0b00:0004][2017-10-17T09:49:47] Processing file /Contents/Licenses/1033/AspNetWebFrameworksTools5_2.rtf
+[0b00:0004][2017-10-17T09:49:47] Started: Copying file /Contents/Licenses/1033/AspNetWebFrameworksTools5_2.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\AspNetWebFrameworksTools5_2.rtf
+[0b00:0004][2017-10-17T09:49:47] Completed: Copying file /Contents/Licenses/1033/AspNetWebFrameworksTools5_2.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\AspNetWebFrameworksTools5_2.rtf
+[0b00:0004][2017-10-17T09:49:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Licenses\1033\AspNetWebFrameworksTools5_2.rtf'.
+[0b00:0004][2017-10-17T09:49:47] Processing file /Contents/Xml/Schemas/RazorCatalog.xml
+[0b00:0004][2017-10-17T09:49:47] Started: Copying file /Contents/Xml/Schemas/RazorCatalog.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCatalog.xml
+[0b00:0004][2017-10-17T09:49:47] Completed: Copying file /Contents/Xml/Schemas/RazorCatalog.xml to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCatalog.xml
+[0b00:0004][2017-10-17T09:49:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCatalog.xml'.
+[0b00:0004][2017-10-17T09:49:47] Processing file /Contents/Xml/Schemas/RazorCustomSchema.xsd
+[0b00:0004][2017-10-17T09:49:47] Started: Copying file /Contents/Xml/Schemas/RazorCustomSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCustomSchema.xsd
+[0b00:0004][2017-10-17T09:49:47] Completed: Copying file /Contents/Xml/Schemas/RazorCustomSchema.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCustomSchema.xsd
+[0b00:0004][2017-10-17T09:49:47] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Xml\Schemas\RazorCustomSchema.xsd'.
+[0b00:0004][2017-10-17T09:49:47] Package executed successfully. Return code: 0
