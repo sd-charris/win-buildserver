@@ -1,6 +1,0 @@
-[0b00:0004][2017-10-17T09:47:43] c:\windows\syswow64\net.exe stop VSStandardCollectorService150
-[0b00:0004][2017-10-17T09:47:43] Error: The Visual Studio Standard Collector Service 150 service is not started.
-
-More help is available by typing NET HELPMSG 3521.
-
-

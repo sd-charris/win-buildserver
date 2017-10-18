@@ -1,7 +1,0 @@
-[0b00:0004][2017-10-17T09:47:43] Opening the package for processing
-[0b00:0004][2017-10-17T09:47:43] Using package payload to get the embedded manifest
-[0b00:0004][2017-10-17T09:47:43] Getting list of files within the package
-[0b00:0004][2017-10-17T09:47:43] Installing ProgId: VisualStudio.diagsession.7a56c1b0
-[0b00:0004][2017-10-17T09:47:43] Processing file extension for install .diagsession
-[0b00:0004][2017-10-17T09:47:43] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
-[0b00:0004][2017-10-17T09:47:43] Package executed successfully. Return code: 0

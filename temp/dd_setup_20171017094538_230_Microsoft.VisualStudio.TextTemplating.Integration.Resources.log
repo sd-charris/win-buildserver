@@ -1,7 +1,0 @@
-[0b00:0004][2017-10-17T09:47:54] Opening the package for processing
-[0b00:0004][2017-10-17T09:47:54] Using package payload to get the embedded manifest
-[0b00:0004][2017-10-17T09:47:54] Getting list of files within the package
-[0b00:0004][2017-10-17T09:47:54] Installing ProgId: VisualStudio.tt.7a56c1b0
-[0b00:0004][2017-10-17T09:47:54] Processing file extension for install .tt
-[0b00:0004][2017-10-17T09:47:54] RegistrationPath: Software\Microsoft\VisualStudio_7a56c1b0\Capabilities\FileAssociations
-[0b00:0004][2017-10-17T09:47:54] Package executed successfully. Return code: 0
